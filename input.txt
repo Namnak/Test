@@ -1,7 +1,10 @@
 hi
-my tom ist super 17
-name
+this is 
+test input file
+no. 3
+
+my name 
 is jan
 
 18
-20
+
